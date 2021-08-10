@@ -1,10 +1,8 @@
-site_name: 2020.2 - SiGeD
+site_name: 2021.1 - SiGeD
 
-repo_name: '2020.2 - SiGeD'
-repo_url: 'https://github.com/fga-eps-mds/2020-2-SiGeD'
+repo_name: '2021.1 - SiGeD'
+repo_url: 'https://github.com/FGA-GCES/2020-2-SiGeD'
 
-lang:
-  - pt
 
 extra_javascript:
   - assets/js/jquery.min.js
@@ -18,100 +16,11 @@ nav:
   - Home: index.html
   - Documentação:
     - Home: home.md
-    - Metodologia: methodology.md
-    - Backlog do Projeto: backlog.md
-    - Roadmap: roadmap.md
-    - Identidade Visual: visual_identity.md
-    - Protótipo: prototype.md
-    - Documento de Visão: vision.md
-    - Documento de Arquitetura: architecturedocument.md
-    - Gerenciamento de Riscos: risks.md
-    - EVM: evm.md
-    - Equipe: team.md
-    - Apresentações: presentations.md
-  - Lean Inception: 
-    - Introdução: leanInception/introduction.md
-    - Visão De Produto: leanInception/product_vision.md
-    - é - não é - faz - não faz: leanInception/is_isnot_do_donot.md
-    - Objetivo do Produto: leanInception/product_purpose.md
-    - Personas: leanInception/personas.md
-    - Jornada do Usuário: leanInception/user_journey.md
-    - BrainStorming: leanInception/brainstorming.md
-    - Revisão Técnica, de Negócio, de UX: leanInception/review.md
-    - Sequenciador: leanInception/sequencer.md
-    - Canvas MVP: leanInception/canvas.md
-  - Comunidade: 
-    - Guia de Contribuição: CONTRIBUTING.md
   - Sprints:
-    - Sprint 0:
-      - Review: sprints/sprint0/sprint0_review.md
-      - Planning: sprints/sprint0/sprint0_planning.md
-    - Sprint 1:
-      - Review: sprints/sprint1/sprint1_review.md
-      - Retrospectiva: sprints/sprint1/sprint1_retrospect.md
-      - Planning: sprints/sprint1/sprint1_planning.md
-    - Sprint 2:
-      - Review: sprints/sprint2/sprint2_review.md
-      - Retrospectiva: sprints/sprint2/sprint2_retrospect.md
-      - Planning: sprints/sprint2/sprint2_planning.md
-    - Sprint 3:
-      - Review: sprints/sprint3/sprint3_review.md
-      - Retrospectiva: sprints/sprint3/sprint3_retrospect.md
-      - Planning: sprints/sprint3/sprint3_planning.md
-    - Sprint 4:
-      - Planning: sprints/sprint4/sprint4_planning.md
-      - Retrospectiva: sprints/sprint4/sprint4_retrospect.md
-      - Review: sprints/sprint4/sprint4_review.md
-    - Sprint 5:
-      - Planning: sprints/sprint5/sprint5_planning.md
-      - Retrospectiva: sprints/sprint5/sprint5_retrospect.md
-      - Review: sprints/sprint5/sprint5_review.md
-    - Sprint 6:
-      - Planning: sprints/sprint6/sprint6_planning.md
-      - Retrospectiva: sprints/sprint6/sprint6_retrospect.md
-      - Review: sprints/sprint6/sprint6_review.md
-    - Sprint 7:
-      - Planning: sprints/sprint7/sprint7_planning.md
-      - Retrospectiva: sprints/sprint7/sprint7_retrospect.md
-      - Review: sprints/sprint7/sprint7_review.md
-    - Sprint 8:
-      - Planning: sprints/sprint8/sprint8_planning.md
-      - Retrospectiva: sprints/sprint8/sprint8_retrospect.md
-      - Review: sprints/sprint8/sprint8_review.md
-    - Sprint 9:
-      - Planning: sprints/sprint9/sprint9_planning.md
-      - Retrospectiva: sprints/sprint9/sprint9_retrospect.md
-      - Review: sprints/sprint9/sprint9_review.md
-    - Sprint 10:
-      - Planning: sprints/sprint10/sprint10_planning.md
-      - Retrospectiva: sprints/sprint10/sprint10_retrospect.md
-      - Review: sprints/sprint10/sprint10_review.md
-    - Sprint 11:
-      - Planning: sprints/sprint11/sprint11_planning.md
-      - Retrospectiva: sprints/sprint11/sprint11_retrospect.md
-      - Review: sprints/sprint11/sprint11_review.md
-    - Sprint 12:
-      - Planning: sprints/sprint12/sprint12_planning.md
-      - Retrospectiva: sprints/sprint12/sprint12_retrospect.md
-      - Review: sprints/sprint12/sprint12_review.md
-    - Sprint 13:
-      - Planning: sprints/sprint13/sprint13_planning.md
-      - Retrospectiva: sprints/sprint13/sprint13_retrospect.md
-      - Review: sprints/sprint13/sprint13_review.md
-    - Sprint 14:
-      - Planning: sprints/sprint14/sprint14_planning.md
-      - Retrospectiva: sprints/sprint14/sprint14_retrospect.md
-      - Review: sprints/sprint14/sprint14_review.md
-  - Templates:
-    - Planning: template_docs/template_planning.md
-    - Review: template_docs/template_review.md
-    - Retrospectiva: template_docs/template_retrospect.md
+    - sprint 0: 'sprints/sprint0.md'
 
 theme:
   name: 'material'
-  features:
-    - navigation.tabs
-    - navigation.sections
   icon:
     repo: fontawesome/brands/github
   

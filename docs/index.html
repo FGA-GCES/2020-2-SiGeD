@@ -15,7 +15,7 @@
     
     <div class="navbar">
       <div class="nav-links">
-        <a href="http://github.com/fga-eps-mds/2020-2-SiGeD" title="Repositórios">
+        <a href="https://github.com/FGA-GCES/2020-2-SiGeD" title="Repositórios">
           <img src="assets/img/github-brands.svg" color="#FFFFFF" alt="Repositórios" height="20px" width="20px">
         </a>
         <a href="home" title="Documentação">
@@ -95,7 +95,7 @@
             <img class="button-icon" src="assets/img/docs.svg" alt="Documentação">
             <p>Acesse a documentação do projeto</p>
           </div>
-          <div class="card-button" onclick="location.href='https://github.com/fga-eps-mds/2020-2-SiGeD';">
+          <div class="card-button" onclick="location.href='https://github.com/FGA-GCES/2020-2-SiGeD';">
             <img class="button-icon" src="assets/img/github.png" alt="Documentação">
             <p>Veja o Repositório</p>
           </div>
@@ -104,6 +104,43 @@
         <div class="team">
           <h2 class="team-title">Equipe</h2>
           <div id="teamMembers">
+            <table id="customers">
+              <tr>
+                  <td id="topid">Nome</td>
+                  <td id="topid">Email</td>
+                  <td id="topid">Github</td>
+              </tr>
+              <tr>
+                  <td>Lucas Lopes Xavier</td>
+                  <td>lucaslopes05597@gmail.com</td>
+                  <td><a href="github./com/lucaslop"> @lucaslop</a></td>
+              </tr>
+              <tr>
+                <td>Moacir Mascarenha Soares Junior</td>
+                <td>moacirmascarenha86@gmail.com</td>
+                <td><a href="github./com/moacirMSJ"> @moacirMSJ</a></td>
+              </tr>
+              <tr>
+                <td>Gustavo Marques Lima</td>
+                <td>gustavomarques.gml@gmail.com</td>
+                <td><a href="github./com/gustavolima00">@gustavolima00</a></td>
+              </tr>
+              <tr>
+                <td>Arthur Alves Rodrigues Pinto</td>
+                <td>arthurarp97@gmail.com</td>
+                <td><a href="github./com/arthurarp">@arthurarp</a></td>
+              </tr>
+              <tr>
+                <td></td>
+                <td></td>
+                <td><a href="github./com/">@</a></td>
+              </tr>
+              <tr>
+                <td></td>
+                <td></td>
+                <td><a href="github./com/">@</a></td>
+              </tr>
+          </table>
         </div>
       </div>
 
@@ -114,49 +151,8 @@
     </footer>
 
   </body>
-  <script async onload="getTeamMembers()">
-    const team = [
-      {name: "Davi Marinho da Silva Campos", user: "DaviMarinho", role:"MDS"},
-      {name: "João Pedro Alves da Silva Chaves",	user: "JPedroCh", role: "MDS"},
-      {name: "Thiago França Vale Oliveira",	user: "Thiagof99", role: "MDS"},
-      {name: "Lucas da Cunha Andrade",	user: "nYCSTs", role: "MDS"},
-      {name: "Dafne Moretti Moreira",	user: "DafneM", role: "MDS"},
-      {name: "Victor Yukio Cavalcanti Miki", user: "yukioz", role: "MDS"},
-      {name: "Vitor Leal",	user: "vitorl-s", role: "EPS"},
-      {name: "Gabriel Carvalho",	user: "Gabrieloak", role: "EPS"},
-      {name: "Ezequiel de Oliveira",	user: "EzequielDeOliveira", role: "EPS"},
-      {name: "Gabriela Guedes",	user: "gabibguedes", role: "EPS"}
-    ]
-
-    async function getPhoto (username) {
-
-      let response = await fetch(`https://api.github.com/users/${username}`)
-      if (response.ok) {
-        let data = await response.json()
-        return data.avatar_url
-      } else {
-        console.log("HTTP-Error: " + response.status);
-      }
-    }
-
-    async function getTeamMembers () {
-      await team.map(async (dev) => {
-        let image = await getPhoto(dev.user)
-        teamMembers.innerHTML += `
-        <a href="https://github.com/${dev.user}/">
-          <div class="img-container ">
-            <img src="${image}" alt="${dev.user}" class="image">
-            <div class="middle">
-              <div class="name">${dev.name}</div>
-              <div class="role">${dev.role}</div>
-            </div>
-          </div>
-        </a>
-        `
-      })
-    }
-
-    window.onload = getTeamMembers()
+  
+ 
 
   </script>
 </html>
