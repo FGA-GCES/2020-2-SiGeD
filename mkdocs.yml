@@ -17,7 +17,7 @@ nav:
   - Documentação:
     - Home: home.md
     - Sprints:
-      - sprint Inicial: 'sprints/sprint0.md'
+      - Sprint 01: 'sprints/sprint1.md'
 
 theme:
   name: 'material'
