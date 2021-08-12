@@ -20,7 +20,7 @@ A segunda reunião ocorreu dia 09 de agosto. Ela foi basicamente um levantamento
 |--- | Configuração do github pages | Lucas e Arthur | Done |
 | [10](https://github.com/DITGO/2020-2-SiGeD/issues/10) | Criar models das lotações | Lucas | Done |
 | [11](https://github.com/DITGO/2020-2-SiGeD/issues/11) | Criar controllers para as lotações | Lucas | Done |
-| [12](https://github.com/DITGO/2020-2-SiGeD/issues/12) | Criar microsserviço de cargos | Arthur| x |
+| [12](https://github.com/DITGO/2020-2-SiGeD/issues/12) | Criar microsserviço de cargos | Arthur| WIP |
 | [13](https://github.com/DITGO/2020-2-SiGeD/issues/13) | Criar models dos cargos | Moacir | x |
 | [14](https://github.com/DITGO/2020-2-SiGeD/issues/14) | Criar controllers dos cargos | Gustavo | x |
 | [15](https://github.com/DITGO/2020-2-SiGeD/issues/15) | Criar protótipos (Home, Lotações e Cargos) | Wictor | x |
