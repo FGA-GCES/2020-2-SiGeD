@@ -36,9 +36,9 @@ GPL-3.0 License
 
 ## Documentação
 
-A documentação do projeto pode ser acessada pelo nosso site em https://fga-eps-mds.github.io/2020-2-SiGeD/ ou você pode acessar pela [SiGeD Documentação](https://fga-eps-mds.github.io/2020-2-SiGeD/home/)
+A documentação do projeto pode ser acessada pelo nosso site em https://fga-gces.github.io/2020-2-SiGeD/home/
 
 
 ## Colaboradores
- As informações dos [colaboradores](https://fga-eps-mds.github.io/2020-2-SiGeD/team/) pode ser acessada na nossa página.
+ As informações dos [colaboradores](https://fga-gces.github.io/2020-2-SiGeD) pode ser acessada na nossa página.
 
