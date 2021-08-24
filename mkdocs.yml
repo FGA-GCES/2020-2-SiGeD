@@ -18,6 +18,7 @@ nav:
     - Home: home.md
     - Sprints:
       - Sprint 01: 'sprints/sprint1.md'
+      - Sprint 02: 'sprints/sprint2.md'
 
 theme:
   name: 'material'
