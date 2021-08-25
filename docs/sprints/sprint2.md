@@ -33,6 +33,6 @@
 | [18](https://github.com/DITGO/2020-2-SiGeD/issues/18) | Enviar notificação do agendamento da consulta | x |  |
 | [x](https://github.com/DITGO/2020-2-SiGeD/issues/x) | Adicionar funcionalidade para upload de arquivos pdf (backend) | Moacir |  |
 | [19](https://github.com/DITGO/2020-2-SiGeD/issues/19) | Testes de integração microsservico lotação | Lucas | done |
-| [x](https://github.com/DITGO/2020-2-SiGeD/issues/19) | Testes de integração microsservico cargos | Lucas |  WIP |
+| [21](https://github.com/DITGO/2020-2-SiGeD/issues/21) | Testes de integração microsservico cargos | Lucas |  WIP |
 | [x](https://github.com/DITGO/2020-2-SiGeD/issues/x) | Desenvolver tela de lotações Lista e adicionar | Wictor |  |
 | [x](https://github.com/DITGO/2020-2-SiGeD/issues/x) | Desenvolver tela de cargos Lista e adicionar | Wictor |  |
