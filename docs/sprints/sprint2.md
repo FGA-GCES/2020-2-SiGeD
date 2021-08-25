@@ -32,7 +32,7 @@
 | [17](https://github.com/DITGO/2020-2-SiGeD/issues/17) | Criar protótipo Tela de Estatísticas | Arthur | Done |
 | [18](https://github.com/DITGO/2020-2-SiGeD/issues/18) | Enviar notificação do agendamento da consulta | x |  |
 | [x](https://github.com/DITGO/2020-2-SiGeD/issues/x) | Adicionar funcionalidade para upload de arquivos pdf (backend) | Moacir |  |
-| [x](https://github.com/DITGO/2020-2-SiGeD/issues/x) | Testes de integração microsservico lotação | Lucas |  |
+| [19](https://github.com/DITGO/2020-2-SiGeD/issues/x) | Testes de integração microsservico lotação | Lucas | done |
 | [x](https://github.com/DITGO/2020-2-SiGeD/issues/x) | Testes de integração microsservico cargos | Lucas |  |
 | [x](https://github.com/DITGO/2020-2-SiGeD/issues/x) | Desenvolver tela de lotações Lista e adicionar | Wictor |  |
 | [x](https://github.com/DITGO/2020-2-SiGeD/issues/x) | Desenvolver tela de cargos Lista e adicionar | Wictor |  |
