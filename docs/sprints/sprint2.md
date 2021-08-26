@@ -32,8 +32,8 @@
 | [22](https://github.com/DITGO/2020-2-SiGeD/issues/22) | Adicionar query param nos endpoints de estatísticas | Arthur  | [Waiting PR Review](https://github.com/DITGO/2020-2-SiGeD-Demands/pull/1)|
 | [17](https://github.com/DITGO/2020-2-SiGeD/issues/17) | Criar protótipo Tela de Estatísticas | Arthur | [Done](https://www.figma.com/file/io8rh4tTkLpmFN6bnuKPAg/Untitled?node-id=0%3A1) |
 | [18](https://github.com/DITGO/2020-2-SiGeD/issues/18) | Enviar notificação do agendamento da consulta | x |  |
-| [19](https://github.com/DITGO/2020-2-SiGeD/issues/19) | Testes de integração microsservico lotação | Lucas | done |
+| [19](https://github.com/DITGO/2020-2-SiGeD/issues/19) | Testes de integração microsservico lotação | Lucas | [Waiting PR Review](https://github.com/DITGO/2020-2-SiGeD-Clients/pull/3)|
 | [20](https://github.com/DITGO/2020-2-SiGeD/issues/20) | Adicionar funcionalidade para upload de arquivos pdf (backend) | Moacir | [Waiting PR Review](https://github.com/DITGO/2020-2-SiGeD-Demands/pull/2) |
-| [21](https://github.com/DITGO/2020-2-SiGeD/issues/21) | Testes de integração microsservico cargos | Lucas |  WIP |
+| [21](https://github.com/DITGO/2020-2-SiGeD/issues/21) | Testes de integração microsservico cargos | Lucas |  [Waiting PR Review](https://github.com/DITGO/2020-2-SiGeD-Cargo/pull/2) |
 | [x](https://github.com/DITGO/2020-2-SiGeD/issues/x) | Desenvolver tela de lotações Lista e adicionar | Wictor |  |
 | [x](https://github.com/DITGO/2020-2-SiGeD/issues/x) | Desenvolver tela de cargos Lista e adicionar | Wictor |  |
