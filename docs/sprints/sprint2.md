@@ -26,7 +26,7 @@
 
 ### Novas issues
 
-| id | Issue | Responsável | Status da issue (WIP, Waiting Waiting PR Review, Done)|
+| id | Issue | Responsável | Status da issue (WIP, Waiting PR Review, Done)|
 | :----: | :----: | :----: | :----: |
 | [16](https://github.com/DITGO/2020-2-SiGeD/issues/16) | Adicionar filtro de demandas à tela de estatísticas | Arthur  | [Waiting PR Review](https://github.com/DITGO/2020-2-SiGeD-Frontend/pull/1)|
 | [22](https://github.com/DITGO/2020-2-SiGeD/issues/22) | Adicionar query param nos endpoints de estatísticas | Arthur  | [Waiting PR Review](https://github.com/DITGO/2020-2-SiGeD-Demands/pull/1)|
