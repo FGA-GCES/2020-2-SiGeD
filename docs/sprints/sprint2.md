@@ -36,4 +36,4 @@
 | [20](https://github.com/DITGO/2020-2-SiGeD/issues/20) | Adicionar funcionalidade para upload de arquivos pdf (backend) | Moacir | [Waiting PR Review](https://github.com/DITGO/2020-2-SiGeD-Demands/pull/2) |
 | [21](https://github.com/DITGO/2020-2-SiGeD/issues/21) | Testes de integração microsservico cargos | Lucas |  [Waiting PR Review](https://github.com/DITGO/2020-2-SiGeD-Cargo/pull/2) |
 | [x](https://github.com/DITGO/2020-2-SiGeD/issues/x) | Desenvolver tela de lotações Lista e adicionar | Wictor |  |
-| [x](https://github.com/DITGO/2020-2-SiGeD/issues/x) | Desenvolver tela de cargos Lista e adicionar | Wictor |  |
+| [x](https://github.com/DITGO/2020-2-SiGeD/issues/x) | Desenvolver tela de cargos Lista e adicionar | Wictor |  [Waiting PR Review](https://github.com/DITGO/2020-2-SiGeD-Frontend/pull/2) |
