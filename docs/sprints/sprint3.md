@@ -9,7 +9,7 @@
 
 ### Maiores dificuldades:
 
-<p align="justify"> -- </p>
+<p align="justify"> As maiores dificuldades encontradas nessa sprint, foi a conciliação de horários. Além disso, foi decidido que o grupo irá primeiro revisar os prs no repositório fga-gces e somente depois de aprovado, irá fazer outro pull request para o repositório DITGO </p>
 
 
 
