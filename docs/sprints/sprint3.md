@@ -21,7 +21,7 @@
 
 | id | Issue | Responsável | Status da issue (WIP, Waiting PR Review, Done)|
 | :----: | :----: | :----: | :----: |
-|||||
+| [x](https://github.com/DITGO/2020-2-SiGeD/issues/x) | Refatorar a  tela de cargos Lista e adicionar | Wictor | [WIP] |
 
 ### Novas issues
 
@@ -29,3 +29,5 @@
 | :----: | :----: | :----: | :----: |
 | [25](https://github.com/DITGO/2020-2-SiGeD/issues/25) | Criar página de lotações | Arthur  | [Done](https://github.com/DITGO/2020-2-SiGeD-Frontend/pull/3)|
 |[24](https://github.com/DITGO/2020-2-SiGeD/issues/24)| Erro de lotação e mudar o cadastro para dropdown | Lucas | [Waiting PR Review](https://github.com/FGA-GCES/2020-2-SiGeD-Frontend/pull/3) |
+|[18](https://github.com/DITGO/2020-2-SiGeD/issues/18) | Enviar notificações do agendamento de consulta | Gustavo | [Done](https://github.com/DITGO/2020-2-SiGeD-Clients/pull/4)
+
