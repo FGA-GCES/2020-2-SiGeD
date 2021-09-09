@@ -19,6 +19,7 @@ nav:
     - Sprints:
       - Sprint 01: 'sprints/sprint1.md'
       - Sprint 02: 'sprints/sprint2.md'
+      - Sprint 03: 'sprints/sprint3.md'
 
 theme:
   name: 'material'
