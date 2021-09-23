@@ -28,5 +28,5 @@
 | [#33](https://github.com/DITGO/2020-2-SiGeD/issues/33)] | Criar dropdown de cargos na página de clientes | Lucas Lopes | [Done](https://github.com/DITGO/2020-2-SiGeD/issues/33) |
 | [#32](https://github.com/DITGO/2020-2-SiGeD/issues/32) | Novo endpoint para obter todos os cargos cadastrados | Lucas Lopes | [Done](https://github.com/DITGO/2020-2-SiGeD-Frontend/pull/7) |
 |[#31](https://github.com/DITGO/2020-2-SiGeD/issues/31) |Recriar a página para executar CRUD sobre os cargos | Lucas Lopes | [Done](https://github.com/DITGO/2020-2-SiGeD-Frontend/pull/7) |
-| | | | |
+|[#34](https://github.com/DITGO/2020-2-SiGeD/issues/34) |Criar e adaptar filtros da área de demandas| Wictor Girardi | [waiting PR](https://github.com/DITGO/2020-2-SiGeD/issues/34) |
 
