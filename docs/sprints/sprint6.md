@@ -26,4 +26,4 @@
 
 | id | Issue | Responsável | Status da issue (WIP, Waiting PR Review, Done)|
 | :----: | :----: | :----: | :----: |
-| [36](https://github.com/DITGO/2020-2-SiGeD/issues/35) | Ajuste no dropdown | Lucas  | [Waiting PR](https://github.com/DITGO/2020-2-SiGeD-Users/pull/1) |
+| [36](https://github.com/DITGO/2020-2-SiGeD/issues/35) | Ajuste no dropdown | Lucas  | [Waiting PR](https://github.com/FGA-GCES/2020-2-SiGeD-Frontend/pull/11) |
