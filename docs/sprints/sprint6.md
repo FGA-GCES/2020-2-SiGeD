@@ -26,6 +26,8 @@
 
 | id | Issue | Responsável | Status da issue (WIP, Waiting PR Review, Merged)|
 | :----: | :----: | :----: | :----: |
+|[#4](https://github.com/DITGO/2020-2-SiGeD/issues/4)| [Frontend] Anexo de documento|Moacir|[Merged](https://github.com/DITGO/2020-2-SiGeD-Frontend/pull/10) |
+|[#4](https://github.com/DITGO/2020-2-SiGeD/issues/4)| [Demandas] Anexo de documento|Moacir|[Merged](https://github.com/DITGO/2020-2-SiGeD-Demands/pull/4) |
 | [36](https://github.com/DITGO/2020-2-SiGeD/issues/35) | Ajuste no dropdown | Lucas  | [Waiting PR](https://github.com/FGA-GCES/2020-2-SiGeD-Frontend/pull/11) |
 | [28](https://github.com/DITGO/2020-2-SiGeD/issues/28) | [Demands] Alteração no schema das demandas | [Arthur](https://github.com/arthurarp)  | [Merged](https://github.com/DITGO/2020-2-SiGeD-Demands/pull/5) |
 | [28](https://github.com/DITGO/2020-2-SiGeD/issues/28) | [Frontend] Permitir que o usurio possa adicionar mais de um campo de nº de processo ao criar uma demanda | [Arthur](https://github.com/arthurarp)  | [Merged](https://github.com/DITGO/2020-2-SiGeD-Frontend/pull/12) |
