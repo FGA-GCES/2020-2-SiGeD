@@ -32,4 +32,4 @@
 |[#31](https://github.com/DITGO/2020-2-SiGeD/issues/31) |Recriar a página para executar CRUD sobre os cargos | Lucas Lopes | [Done](https://github.com/DITGO/2020-2-SiGeD-Frontend/pull/7) |
 |[#34](https://github.com/DITGO/2020-2-SiGeD/issues/34) |Criar e adaptar filtros da área de demandas| Wictor Girardi | [Done](https://github.com/DITGO/2020-2-SiGeD-Frontend/pull/6) |
 |[#37]|Criar Protótipo geral dos relatórios | Wictor Girardi | [WIP] |
-|[#29](https://github.com/DITGO/2020-2-SiGeD/issues/29)|Criar Protótipo geral dos relatórios | [Arthur Rodrigues](https://github.com/arthurarp) | [Waiting Internal Review](https://github.com/FGA-GCES/2020-2-SiGeD-Frontend/pull/6) |
+|[#29](https://github.com/DITGO/2020-2-SiGeD/issues/29)|Relatório de prontuário do cliente | [Arthur Rodrigues](https://github.com/arthurarp) | [Waiting Internal Review](https://github.com/FGA-GCES/2020-2-SiGeD-Frontend/pull/6) |
