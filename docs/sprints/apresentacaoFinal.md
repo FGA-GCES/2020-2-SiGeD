@@ -2,7 +2,7 @@
 ## Principais dificuldades encontradas ao longo do projeto
 
 ## Tomadas de decisão importantes ao longo do projeto
-- Durante o desenvolvimento, algumas mudanças nos códigos geraram bugs. Também vale ressaltar que os mantenedores do projeto se mostraram pouco experientes tecnicamente. Diante disso o grupo decidiu revisar os pull request antes de enviar ao repositório DITGO, com o objetivo de evitar possiveis falhas ou bugs.
+- O grupo decidiu revisar os pull request antes de enviar ao repositório DITGO, com o objetivo de evitar possiveis falhas ou bugs.
 
 
 ## Resumo das sprints
@@ -12,13 +12,15 @@
 
 | Integrante | Issue  | Status da issue (WIP, Waiting PR Review, Done)| Quantidade de commits individuais | Quantidade de commits pareados | 
 | :----: | :----: | :----: | :----: | :----: |
-| |
+| Wictor Girardi | [15](https://github.com/DITGO/2020-2-SiGeD/issues/15) | Done | Prototipação | 0 |
 
 ### Sprint 2
 [Detalhes da sprint 02](https://fga-gces.github.io/2020-2-SiGeD/sprints/sprint2/)
 
 | Integrante | Issue  | Status da issue (WIP, Waiting PR Review, Done)| Quantidade de commits individuais | Quantidade de commits pareados | 
-| :----: | :----: | :----: | :----: | :----: |
+| Wictor Girardi | [17](https://github.com/DITGO/2020-2-SiGeD/issues/17) | Done | Prototipação | 0 |
+| Wictor Girardi | [23](https://github.com/DITGO/2020-2-SiGeD/issues/23) | Done | 5 | 0 |
+| Wictor Girardi | [25](https://github.com/DITGO/2020-2-SiGeD/issues/25) | Done | 0 | 2 |
 
 ### Sprint 3
 [Detalhes da sprint 03](https://fga-gces.github.io/2020-2-SiGeD/sprints/sprint3/)
