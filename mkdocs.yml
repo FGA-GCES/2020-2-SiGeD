@@ -23,6 +23,8 @@ nav:
       - Sprint 04: 'sprints/sprint4.md'
       - Sprint 05: 'sprints/sprint5.md'
       - Sprint 06: 'sprints/sprint6.md'
+      - Sprint 07: 'sprints/sprint7.md'
+      - Apresentação Final: 'sprints/apresentacaoFinal'
 
 theme:
   name: 'material'
