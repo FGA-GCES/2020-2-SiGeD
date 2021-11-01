@@ -23,5 +23,5 @@
 
 | id | Issue | Responsável | Status da issue (WIP, Waiting PR Review, Merged)|
 | :----: | :----: | :----: | :----: |
-| Gustavo Marques | [Correção de bug](https://github.com/FGA-GCES/2020-2-SiGeD-Frontend/pull/12) | Done | 1 | 0 |
+| - |Gustavo Marques | [Correção de bug](https://github.com/FGA-GCES/2020-2-SiGeD-Frontend/pull/12) | Done |
 | [27](https://github.com/DITGO/2020-2-SiGeD/issues/27)| Chat |Arthur e Moacir | WIP |
