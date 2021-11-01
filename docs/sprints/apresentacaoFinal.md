@@ -18,6 +18,7 @@
 [Detalhes da sprint 02](https://fga-gces.github.io/2020-2-SiGeD/sprints/sprint2/)
 
 | Integrante | Issue  | Status da issue (WIP, Waiting PR Review, Done)| Quantidade de commits individuais | Quantidade de commits pareados | 
+| :----: | :----: | :----: | :----: | :----: |
 | Wictor Girardi | [17](https://github.com/DITGO/2020-2-SiGeD/issues/17) | Done | Prototipação | 0 |
 | Wictor Girardi | [23](https://github.com/DITGO/2020-2-SiGeD/issues/23) | Done | 5 | 0 |
 | Wictor Girardi | [25](https://github.com/DITGO/2020-2-SiGeD/issues/25) | Done | 0 | 2 |
