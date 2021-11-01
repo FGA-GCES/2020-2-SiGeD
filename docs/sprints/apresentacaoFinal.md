@@ -40,6 +40,7 @@
 
 | Integrante | Issue  | Status da issue (WIP, Waiting PR Review, Done)| Quantidade de commits individuais | Quantidade de commits pareados | 
 | :----: | :----: | :----: | :----: | :----: |
+| Wictor Girardi | Aplicação de Clean Code e SOLID(https://github.com/DITGO/2020-2-SiGeD-Frontend/pull/9) | Done | 9 | 0 |
 
 ### Sprint 6
 [Detalhes da sprint 06](https://fga-gces.github.io/2020-2-SiGeD/sprints/sprint6/)
