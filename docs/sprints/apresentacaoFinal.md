@@ -21,7 +21,7 @@
 | :----: | :----: | :----: | :----: | :----: |
 | Wictor Girardi | [17](https://github.com/DITGO/2020-2-SiGeD/issues/17) | Done | Prototipação | 0 |
 | Wictor Girardi | [23](https://github.com/DITGO/2020-2-SiGeD/issues/23) | Done | 5 | 0 |
-| Wictor Girardi | [25](https://github.com/DITGO/2020-2-SiGeD/issues/25) | Done | 0 | 2 |
+| Wictor Girardi | [25](https://github.com/DITGO/2020-2-SiGeD/issues/25) | WIP | 0 | 2 |
 
 ### Sprint 3
 [Detalhes da sprint 03](https://fga-gces.github.io/2020-2-SiGeD/sprints/sprint3/)
