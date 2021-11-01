@@ -2,7 +2,7 @@
 ## Principais dificuldades encontradas ao longo do projeto
 
 ## Tomadas de decisão importantes ao longo do projeto
-- O grupo decidiu revisar os pull request antes de enviar ao repositório DITGO, com o objetivo de evitar possiveis falhas ou bugs.
+- Durante o desenvolvimento, algumas mudanças nos códigos geraram bugs. Também vale ressaltar que os mantenedores do projeto se mostraram pouco experientes tecnicamente. Diante disso o grupo decidiu revisar os pull request antes de enviar ao repositório DITGO, com o objetivo de evitar possiveis falhas ou bugs.
 
 
 ## Resumo das sprints
