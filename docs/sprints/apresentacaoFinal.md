@@ -2,7 +2,8 @@
 ## Principais dificuldades encontradas ao longo do projeto
 - Durante as ultimas Sprints foi notado uma queda de rendimento da equipe devido ao final do semestre e a exigencia dos mantenedores com as novas tarefas.
 - Em algumas sprints poucas issues foram criadas pelos mantenedores, deixando assim o trabalho um pouco escasso. 
-
+- Boa parte dos integrantes do grupo trabalham. Além disso os horários de reunião com o DITGO deveriam ser em horário comercial. Esses fatores dificultaram os horários das reuniões semanais.
+- 
 ## Tomadas de decisão importantes ao longo do projeto
 - O grupo decidiu revisar os pull request antes de enviar ao repositório DITGO, com o objetivo de evitar possiveis falhas ou bugs.
 
