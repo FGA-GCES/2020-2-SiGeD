@@ -34,6 +34,7 @@
 
 | Integrante | Issue  | Status da issue (WIP, Waiting PR Review, Done)| Quantidade de commits individuais | Quantidade de commits pareados | 
 | :----: | :----: | :----: | :----: | :----: |
+| Wictor Girardi | [34](https://github.com/DITGO/2020-2-SiGeD/issues/34) | Done | 4 | 0 |
 
 ### Sprint 5
 [Detalhes da sprint 05](https://fga-gces.github.io/2020-2-SiGeD/sprints/sprint5/)
