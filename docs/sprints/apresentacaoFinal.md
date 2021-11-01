@@ -31,6 +31,7 @@
 | Integrante | Issue  | Status da issue (WIP, Waiting PR Review, Done)| Quantidade de commits individuais | Quantidade de commits pareados | 
 | :----: | :----: | :----: | :----: | :----: |
 | Gustavo Marques | [6](https://github.com/DITGO/2020-2-SiGeD/issues/6) | Done | 3 | 0 |
+| Wictor Girardi | [31](https://github.com/DITGO/2020-2-SiGeD/issues/31) | WIP | 0 | 2 |
 
 
 ### Sprint 4
