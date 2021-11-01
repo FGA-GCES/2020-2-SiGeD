@@ -1,4 +1,4 @@
-# Sprint 07
+# Sprint 07 - Divida técnica
 
 ## Período: 19/10/2021 a 01/11/2021
 
