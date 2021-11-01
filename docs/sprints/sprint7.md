@@ -25,3 +25,5 @@
 | :----: | :----: | :----: | :----: |
 | - | [Correção de bug](https://github.com/FGA-GCES/2020-2-SiGeD-Frontend/pull/12)|  Gustavo Marques| Done |
 | [27](https://github.com/DITGO/2020-2-SiGeD/issues/27)| Chat |Arthur e Moacir | WIP |
+| - | - |  Lucas | [Wating PR Review](https://github.com/DITGO/2020-2-SiGeD-Frontend/pull/16) |
+| - | -|  Lucas | [Wating PR Review](https://github.com/DITGO/2020-2-SiGeD-Clients/pull/7) | 
