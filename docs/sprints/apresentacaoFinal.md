@@ -103,7 +103,7 @@
 | Lucas | - | [Hotfix - Erro ao atualizar um cargo Backend](https://github.com/DITGO/2020-2-SiGeD-Clients/pull/7) | 1 | 0 |
 | Wictor Girardi | [Correção de bug](https://github.com/DITGO/2020-2-SiGeD/issues/34) | WIP | 1 | 0 |
 | Arthur e Moacir | [27](https://github.com/DITGO/2020-2-SiGeD/issues/27) Chat | WIP | 0 | 2 |
-| Gustavo Marques | [Correção de bug](https://github.com/DITGO/2020-2-SiGeD-Frontend/pull/15) | Done | 1 | 0 |
+| Arthur Rodrigues | [Correção de bug](https://github.com/DITGO/2020-2-SiGeD-Frontend/pull/15) | Done | 1 | 0 |
 
 
 
